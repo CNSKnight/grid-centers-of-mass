@@ -1,0 +1,21 @@
+{
+  "name": "grid-subregions-centers-of-mass",
+  "version": "1.0.0",
+  "description": "For a 2-dimensional array of signal values, calculates the center of mass of sub-regions of contiguous cells with a value above a threshold value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cnsknight"
+  },
+  "keywords": [
+    "ionic"
+  ],
+  "author": "CNSKnight",
+  "license": "ISC",
+  "dependencies": {
+    "random-int": "^1.0.0"
+  }
+}
